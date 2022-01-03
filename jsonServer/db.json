@@ -1,0 +1,24 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "API Post",
+      "content": "API Content"
+    },
+    {
+      "title": "Hii",
+      "content": "There",
+      "id": 2
+    },
+    {
+      "title": "Ok",
+      "content": "Janu",
+      "id": 3
+    },
+    {
+      "title": "Gaurangi Srivastava ",
+      "content": "I LOVE YOU ",
+      "id": 5
+    }
+  ]
+}
